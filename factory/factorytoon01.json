@@ -1,0 +1,9 @@
+{
+	"name": "factorytoon01",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d9dcf6c-6a38-451d-8fd7-6ea19cdc59cd",
+		"tenantId": "fd206715-7509-4ae5-9b96-76bb97886a84"
+	}
+}
